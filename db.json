@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Chetan Restro",
+      "email": "chetan@gmail.com",
+      "mobile": "07023477984",
+      "address": "VPO- Langra, Tahsil- Mandrayal, Distt.- Karauli Rajasthan",
+      "services": "lunch"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Chetan Sharma",
+      "mobile": "8963033356",
+      "email": "chetan@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

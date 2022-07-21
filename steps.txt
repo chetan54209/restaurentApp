@@ -1,0 +1,20 @@
+First Of all Run Our Project and see output. 
+
+Create a model > getbootstrap.com
+Now Create a form > getBootstrap.com
+Now add ReactiveFormsModuel and HttpCilentModule into app.module.ts for using reactive forms and communicating httpClient
+AddDetail Form is ready for use
+
+create a server with > json-server --watch db.json
+Now I am going to make a service
+Now add a model class for defining the type of all fields
+then create a object for that model class in our ts file for posting data 
+Now Show the data from database to  Our data Table
+Now we are going to delete records
+
+>> Create Login and signUp component with Cli
+>> Create Routing For Our Angular Project
+>> Make Register Array of Object for Sorting User
+>> Fire APi and Methods For Storing Data in JSon File
+>> Create Login System for Angular Project
+>> Finishing Our Angular Project
